@@ -1,6 +1,8 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
+#include <iostream>
 #include <cmath>
+#include <cstdlib>
 
 #define DIM 1024
 #define DM1 (DIM - 1)

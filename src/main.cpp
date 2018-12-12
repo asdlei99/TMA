@@ -1,9 +1,4 @@
 // NOTE: compile with g++ filename.cpp -std=c++11
-
-#include <iostream>
-#include <cmath>
-#include <cstdlib>
-
 #include "main.h"
 
 
